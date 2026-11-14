@@ -1,0 +1,16 @@
+ACTOVYNA - START HIER
+=====================
+
+1. Pak de ZIP uit in een map op je computer.
+2. Installeer Docker Desktop als dat nog niet is gebeurd.
+3. Dubbelklik op start-docker-windows.bat.
+4. Open http://localhost:8080 in je browser.
+5. Klik op 'Probeer de demo' om direct te testen.
+
+Wil je zonder Docker starten? Lees README.md voor de stappen met Python en Node.js.
+
+Belangrijk:
+- GitHub Pages kan de Python-backend niet draaien.
+- Upload de broncode naar je GitHub-repository 'actovyna'.
+- Deel nooit OPENAI_API_KEY of een .env-bestand.
+- De standaard lokale analyse is gratis en vereist geen AI-sleutel.
